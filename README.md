@@ -98,8 +98,9 @@ C(r) = ⟨v(x)·v(x+r)⟩     // Spatial Correlation
 
 ## Contact
 
-mail: 
-x: 
+mail: team@thenestai.net
+
+x: https://x.com/thenestai 
 
 ---
 
