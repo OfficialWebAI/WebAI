@@ -47,3 +47,4 @@ typescriptCopyclass CosmicDustSystem {
     }, new Vector2D(0, 0));
   }
 }
+
