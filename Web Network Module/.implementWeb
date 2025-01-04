@@ -1,5 +1,5 @@
 Core Architecture
-typescriptCopyinterface NeuralSwarm {
+typescriptCopyinterface NeuralWeb {
   particles: NeuralParticle[];
   synapticNetwork: SynapticGraph;
   learningConfig: LearningParameters;
