@@ -1,5 +1,5 @@
 Core Architecture
-typescriptCopyinterface CosmicSwarm {
+typescriptCopyinterface CosmicWeb {
   particles: CosmicParticle[];
   gravityField: GravityField;
   orbits: OrbitalSystem;
