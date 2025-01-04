@@ -1,5 +1,5 @@
 Core Architecture
-typescriptCopyinterface QuantumNest {
+typescriptCopyinterface QuantumWeb {
   particles: QuantumParticle[];
   waveFunction: ComplexArray;
   entanglementMap: Map<number, number[]>;
