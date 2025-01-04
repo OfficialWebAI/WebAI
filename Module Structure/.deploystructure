@@ -1,10 +1,10 @@
-# Nest System Architecture
+# Web System Architecture
 
 > Technical architecture documentation for the SWRM distributed intelligence system.
 
 ## System Overview
 
-Nest is built on a multi-layered architecture that enables distributed swarm computation through four specialized models. The system implements real-time particle simulation with emergent behavior patterns.
+Web is built on a multi-layered architecture that enables distributed swarm computation through four specialized models. The system implements real-time particle simulation with emergent behavior patterns.
 
 ```mermaid
 flowchart TB
@@ -22,9 +22,9 @@ flowchart TB
         SM["State Management"]
     end
 
-    subgraph Modules["Nest Modules"]
+    subgraph Modules["Web Modules"]
         direction LR
-        NNM["Nest Network Module"]
+        NNM["Web Network Module"]
         QM["Quantum Module"]
         CDM["Cosmic Dust Module"]
         FM["Fireflies Module"]
@@ -98,13 +98,13 @@ interface CoreSystem {
 - Collision detection
 - Force field computation
 
-#### Nest Controllers
+#### Web Controllers
 - State machine architecture
 - Dynamic parameter adjustment
 - Rule-based behavior system
 - Real-time adaptation
 
-### Nest Models
+### Web Models
 
 #### Neural Network Model
 ```typescript
