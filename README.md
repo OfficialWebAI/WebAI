@@ -1,4 +1,4 @@
-Web is a decentralized AI system powered by four interconnected modules, delivering emergent behavior through collective computation. Like a nest, each module functions as a piece of a greater network.
+Web is a decentralized AI system powered by four interconnected modules, delivering emergent behavior through collective computation. Like a Web, each module functions as a piece of a greater network.
 
 ## Core Components
 
@@ -7,10 +7,10 @@ Web is a decentralized AI system powered by four interconnected modules, deliver
 - State management and physics-based interactions
 - Performance-optimized computation
 
-### Nest Modules
+### Web Modules
 Four specialized behavior models:
 
-1. **Nest Network Module**
+1. **Web Network Module**
    - Grid-based particle organization
    - Dynamic synaptic connections
    - Collective pattern formation
@@ -33,14 +33,14 @@ Four specialized behavior models:
 ## System Architecture
 
 ```typescript
-interface NestArchitecture {
+interface WebArchitecture {
   particleSystem: {
     state: ParticleState[];
-    behavior: NestBehavior;
+    behavior: WebBehavior;
     physics: PhysicsEngine;
   };
   
-  nestNetwork: {
+  WebNetwork: {
     nodes: NeuralNode[];
     connections: Connection[];
     learningRate: number;
@@ -59,7 +59,7 @@ interface NestArchitecture {
 ### Particle System Configuration
 
 ```typescript
-interface NestConfig {
+interface WebConfig {
   particleCount: number;
   particleSpeed: number;
   connectionDistance: number;
@@ -67,7 +67,7 @@ interface NestConfig {
   maxSpeed: number;
   friction: number;
   repulsion: number;
-  behavior: NestBehavior;
+  behavior: WebBehavior;
 }
 ```
 
@@ -99,7 +99,7 @@ C(r) = ⟨v(x)·v(x+r)⟩     // Spatial Correlation
 
 mail: team@thewebai.net
 
-x: https://x.com/NestAI_
+x: https://x.com/WebAI_
 
 ---
 
