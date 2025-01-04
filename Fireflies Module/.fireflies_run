@@ -54,3 +54,4 @@ typescriptCopyclass FirefliesSystem {
     return sum.magnitude() / this.particles.length;
   }
 }
+#
