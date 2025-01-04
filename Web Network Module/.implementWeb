@@ -38,3 +38,4 @@ typescriptCopyclass NeuralParticleSystem {
     p.adjustWeights(learningRate * activationDelta);
   }
 }
+#
