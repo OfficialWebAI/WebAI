@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/365f3c58-5a89-4263-9cf2-ac620091eae3)
-Nest is a decentralized AI system powered by four interconnected modules, delivering emergent behavior through collective computation. Like a nest, each module functions as a piece of a greater network.
+WEB is a decentralized AI system powered by four interconnected modules, delivering emergent behavior through collective computation. Like a nest, each module functions as a piece of a greater network.
 
 ## Core Components
 
@@ -98,7 +97,7 @@ C(r) = ⟨v(x)·v(x+r)⟩     // Spatial Correlation
 
 ## Contact
 
-mail: team@thenestai.net
+mail: team@thewebai.net
 
 x: https://x.com/NestAI_
 
