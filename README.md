@@ -100,7 +100,4 @@ C(r) = ⟨v(x)·v(x+r)⟩     // Spatial Correlation
 
 mail: team@thewebai.net
 
-x: https://x.com/WebAI_
-
----
-
+https://x.com/webaico
