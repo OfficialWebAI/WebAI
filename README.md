@@ -1,4 +1,5 @@
-Web is a decentralized AI system powered by four interconnected modules, delivering emergent behavior through collective computation. Like a Web, each module functions as a piece of a greater network.
+Web is a dec![web_header](https://github.com/user-attachments/assets/b431d47e-568b-4cce-8d24-e44039f2395f)
+entralized AI system powered by four interconnected modules, delivering emergent behavior through collective computation. Like a Web, each module functions as a piece of a greater network.
 
 ## Core Components
 
